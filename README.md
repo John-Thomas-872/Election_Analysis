@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Elecction Audit
-The Election Commission in Denver, Colorado has asked for assistance creating a script to help determine the winning candidate of the election and the total number of votes in each county. 
+The Election Commission in Denver, Colorado has asked for assistance creating a script to help automate the process of determining the winning candidate of the election and the total number of votes in each county. This is accomplsihed through a python script that takes in a .csv file and returns the values in the terminal as well as exporting the information to a .txt file. The election results and voting totals are listed below. 
 ## Election-Audit Results
 
 - How many votes were cast in this congressional election?
