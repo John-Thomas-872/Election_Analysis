@@ -33,7 +33,7 @@ The Election Commission in Denver, Colorado has asked for assistance creating a 
         
 - Below is the results from the terminal when the script is run. 
 
-        ![alt text](Resources/Election_Analysis_Results.png)
+![alt text](Resources/Election_Analysis_Results.png)
 
 ## Election-Audit Summary  
 This script is a simple, automated way to quickly calculate election totals for each candidate and total votes casat tin each county. The script calls for a .csv file with 3 columns: Ballot ID, County, and Candidate. The Ballot ID column is not used, but it is good to have a unique identifier for each vote. Since the script only looks at the county and candidate columns, it would be simple to reformat the script to look at the same columns in different locations or to format a .csv file to run in this script. This makes it ideal to use in all future elections. This code can be modified in a few ways to make it run even better for furture elections.   
