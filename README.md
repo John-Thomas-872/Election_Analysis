@@ -32,6 +32,7 @@ The Election Commission in Denver, Colorado has asked for assistance creating a 
         Diana DeGette: 73.8% (272,892)
         
 - Below is the results from the terminal when the script is run. 
+
         ![alt text](Resources/Election_Analysis_Results.png)
 
 ## Election-Audit Summary  
